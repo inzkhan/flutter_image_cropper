@@ -2,8 +2,7 @@
 library chroppie.native;
 
 import 'dart:html';
-
-import 'package:js/js.dart';
+import 'dart:js_interop';
 
 import 'croppie_dart.dart';
 
